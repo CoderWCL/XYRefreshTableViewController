@@ -8,7 +8,7 @@
 
 #import "XYBaseRefreshLoadTableViewController.h"
 
-#import <MJRefresh.h>
+#import "MJRefresh.h"
 
 @interface XYBaseRefreshLoadTableViewController ()
 
