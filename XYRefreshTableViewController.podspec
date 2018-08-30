@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "XYRefreshTableViewController"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "tableView refresh load used on iOS."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/CoderWCL/XYRefreshTableViewController.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/CoderWCL/XYRefreshTableViewController.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
