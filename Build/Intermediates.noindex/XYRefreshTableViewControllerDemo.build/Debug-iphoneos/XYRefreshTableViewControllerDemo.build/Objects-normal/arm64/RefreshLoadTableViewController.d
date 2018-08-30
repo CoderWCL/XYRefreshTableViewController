@@ -1,3 +1,0 @@
-dependencies: \
-  /Users/lwc/Desktop/玄一师/pod/XYRefreshTableViewController/XYRefreshTableViewControllerDemo/XYRefreshTableViewControllerDemo/RefreshLoadTableViewController.m \
-  /Users/lwc/Desktop/玄一师/pod/XYRefreshTableViewController/XYRefreshTableViewControllerDemo/XYRefreshTableViewControllerDemo/RefreshLoadTableViewController.h
