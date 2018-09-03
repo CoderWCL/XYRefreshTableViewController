@@ -30,10 +30,6 @@
     // Do any additional setup after loading the view.
 }
 
-- (void)setTotal:(int)total {
-    _total = total/10 + (total%10 != 0);
-}
-
 - (void)tableViewDidFinishTriggerHeader:(BOOL)isHeader reload:(BOOL)reload
 {
     if (isHeader) {

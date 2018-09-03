@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/lwc/Desktop/玄一师/pod/XYRefreshTableViewController/XYRefreshTableViewControllerDemo/XYRefreshTableViewControllerDemo/main.m \
-  /Users/lwc/Desktop/玄一师/pod/XYRefreshTableViewController/XYRefreshTableViewControllerDemo/XYRefreshTableViewControllerDemo/AppDelegate.h
+  /Users/lwc/Desktop/玄一师/pod/XYRefreshTableViewController/XYRefreshTableViewControllerD/XYRefreshTableViewControllerDemo/main.m \
+  /Users/lwc/Desktop/玄一师/pod/XYRefreshTableViewController/XYRefreshTableViewControllerD/XYRefreshTableViewControllerDemo/AppDelegate.h
